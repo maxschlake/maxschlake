@@ -2,7 +2,7 @@
 
 You're looking at repositories created by *@maxschlake*. <br/>
 
-I'm an aspiring **Data Scientist** / **ML Engineer** with a Statistics background :mortar_board:, and I have decided to collect my projects here. <br/>
+I'm an aspiring **Data Scientist** / **ML Engineer** with a Statistics background and a specialization in sensor signal processing and NLP. For the time being, I cannot yet upload the code from my two ML research internships (as the corresponding papers have to be published first). So I decided to start uploading my own collection of projects here. <br/>
 
 A bit of information about me: I'm originally from Germany, but I have studied and worked in Spain, Italy and France. I have finally settled down in Grenoble. 🥳 I'm also a passionate guitar player, who I likes to improvise to fusion or flamenco. :notes: <br/>
 
