@@ -2,7 +2,7 @@
 
 You're looking at repositories created by *@maxschlake*. <br/>
 
-I'm a **Data Scientist** / **ML Engineer** with a Statistics background and a specialization in sensor signal processing and NLP. I recently started working on my own projects which I will upload here. <br/>
+I'm a Data Scientist at Kentyou, where I focus on Computer Vision projects in the mobility domain (e.g., analyzing traffic flows and detecting unusual traffic events). <br/>
 
 A bit of information about me: I'm originally from Germany, but I have studied and worked in Spain, Italy and France. I have finally settled down in Grenoble. 🥳 I'm also a passionate guitar player, who I likes to improvise to fusion or flamenco. :notes: <br/>
 
